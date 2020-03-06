@@ -1,2 +1,2 @@
-# Web_Scraper_Third_Party
-Web Scraper Third Party Sources
+# Web Scraper Third Party Sources
+Third Party Script
