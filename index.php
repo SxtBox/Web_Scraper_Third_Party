@@ -40,9 +40,13 @@
 	&copy; <?php echo date("Y") ?>  <strong>TRC4</strong> <a href="http://kodi.al" target="_blank"><strong>kodi.al</strong></a>
     </footer>
 
-    <!-- jQuery Version 1.11.1 -->
+    <!-- jQuery Version 1.11.1 vulnerabilities detected --/>
     <script src="js/jquery.min.js"></script>
-
+    <!-- jQuery Version 1.11.1 vulnerabilities detected -->
+    <!-- minified --/>
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+    <!-- minified -->
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.js"></script>
 
